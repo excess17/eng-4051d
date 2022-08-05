@@ -1,0 +1,13 @@
+code: bundlejhipster710d-bundle
+description: This is the bundlejhipster710d bundle
+
+components:
+  plugins:
+    - plugins/bundlejhipster710d-plugin.yaml
+
+  widgets:
+    - ui/widgets/d-4-point/tableWidget/d-4-point-table-widget-descriptor.yaml
+    - ui/widgets/d-4-point/detailsWidget/d-4-point-details-widget-descriptor.yaml
+    - ui/widgets/d-4-point/formWidget/d-4-point-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
