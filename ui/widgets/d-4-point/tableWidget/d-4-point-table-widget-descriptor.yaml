@@ -1,0 +1,6 @@
+code: d-4-point-table-widget
+titles:
+  en: D 4 Point Table Widget
+  it: D 4 Point Table Widget
+group: free
+customUiPath: d-4-point-table-widget.ftl

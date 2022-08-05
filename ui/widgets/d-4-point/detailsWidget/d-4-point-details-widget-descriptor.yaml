@@ -1,0 +1,6 @@
+code: d-4-point-details-widget
+titles:
+  en: D 4 Point Details Widget
+  it: D 4 Point Details Widget
+group: free
+customUiPath: d-4-point-details-widget.ftl
